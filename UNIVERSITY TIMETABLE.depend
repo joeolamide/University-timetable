@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638140389 source:c:\users\joseph\documents\c++ all projects\university timetable\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<string>
+
